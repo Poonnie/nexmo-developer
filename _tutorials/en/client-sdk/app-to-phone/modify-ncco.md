@@ -17,18 +17,22 @@ To create your NCCO
    
 3) Copy and paste the following JSON object into the gist:
 
-    ```javascript   
-    [{
-      "action": "talk",
-      "text": "Please wait while we connect you"
-     },
-     {
-      "action": "connect",
-      "endpoint": [{
-          "type": "phone",
-          "number": "Your-Phone-Number"
-      }]
-    }]
+    ```json
+    [
+        {
+            "action": "talk",
+            "text": "Please wait while we connect you."
+        },
+        {
+            "action": "connect",
+            "endpoint": [
+                {
+                    "type": "phone",
+                    "number": "Your-Phone-Number"
+                }
+            ]
+        }
+    ]
     ```
 
 4) Replace Your-Phone-Number with your phone number (must be in [E.164](https://developer.nexmo.com/concepts/guides/glossary#e-164-format) format i.e. 14155550100)
