@@ -15,4 +15,4 @@ To create your NCCO
    
 2) Take note of your Glitch Project Name: https://glitch.com/edit/#!/GLITCH-PROJECT-NAME
 
-3) Edit `public/ncco.json` and replace Your-Phone-Number with your phone number (must be in in [E.164](https://developer.nexmo.com/concepts/guides/glossary#e-164-format) format i.e. 14155550100)
+3) Edit `public/ncco.json` and replace Your-Phone-Number with your phone number (must be in [E.164](https://developer.nexmo.com/concepts/guides/glossary#e-164-format) format i.e. 14155550100)
