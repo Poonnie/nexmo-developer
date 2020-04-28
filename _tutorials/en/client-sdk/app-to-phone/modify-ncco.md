@@ -17,8 +17,7 @@ To create your NCCO
    
 3) Copy and paste the following JSON object into the gist:
 
-    ```json
-   
+    ```javascript   
     [{
       "action": "talk",
       "text": "Please wait while we connect you"
@@ -34,6 +33,6 @@ To create your NCCO
 
 4) Replace Your-Phone-Number with your phone number (must be in [E.164](https://developer.nexmo.com/concepts/guides/glossary#e-164-format) format i.e. 14155550100)
 
-5) Click the ``Create secret gist`` button.
+5) Click the `Create secret gist` button.
 
-6) Click the ``Raw`` button. Take note of the URL, you will be using it in the next step.
+6) Click the `Raw` button. Take note of the URL, you will be using it in the next step.
