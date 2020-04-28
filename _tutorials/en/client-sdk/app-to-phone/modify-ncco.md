@@ -12,10 +12,13 @@ The NCCO must be public and accessible by the internet. To accomplish that, we w
 To create your NCCO
 
 1) Go to [https://gist.github.com/](https://gist.github.com/).
-   
-2) Copy and paste the following JSON object into the gist:
 
-    ```
+2) Enter ``ncco.json`` into "Filename including extension".
+   
+3) Copy and paste the following JSON object into the gist:
+
+    ```json
+   
     [{
       "action": "talk",
       "text": "Please wait while we connect you"
@@ -29,8 +32,8 @@ To create your NCCO
     }]
     ```
 
-3) Replace Your-Phone-Number with your phone number (must be in [E.164](https://developer.nexmo.com/concepts/guides/glossary#e-164-format) format i.e. 14155550100)
+4) Replace Your-Phone-Number with your phone number (must be in [E.164](https://developer.nexmo.com/concepts/guides/glossary#e-164-format) format i.e. 14155550100)
 
-4) Click the ``Create secret gist`` button.
+5) Click the ``Create secret gist`` button.
 
-5) Click the ``Raw`` button. Take note of the URL, you will be using it in the next step.
+6) Click the ``Raw`` button. Take note of the URL, you will be using it in the next step.
