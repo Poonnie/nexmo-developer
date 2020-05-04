@@ -9,6 +9,8 @@ A Nexmo Call Control Object (NCCO) is a JSON array that you use to control the f
 
 The NCCO must be public and accessible by the internet. To accomplish that, we will be using [GitHub Gist](https://gist.github.com/).
 
+> **NOTE**: You will need a [GitHub](https://github.com) account and be logged in.
+
 To create your NCCO
 
 1) Go to [https://gist.github.com/](https://gist.github.com/).
