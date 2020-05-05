@@ -5,13 +5,16 @@ description: Install the Nexmo Node Client SDK to get the latest functionality f
 
 If you are planning to use JavaScript to develop your application, you'll need to install (or update) the latest version of the Nexmo Client SDK.
 
-Create a new project directory and change into it. Then run the following command:
+Create a new project directory and change into it.
 
+To create a blank project, run this command:
 ``` bash
-$ npm init -y
-$ npm install nexmo-client --save
+npm init -y
 ```
 
-This will install the Client SDK into the `node_modules` directory within your project folder.
+The following command will install the Client SDK into the `node_modules` directory within your project folder:
+``` bash
+npm install nexmo-client --save
+```
 
 If you already have the Client SDK installed the above command will upgrade your Client SDK to the latest version.
