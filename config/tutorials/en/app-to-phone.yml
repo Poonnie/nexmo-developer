@@ -14,11 +14,7 @@ introduction:
     To achieve this, you will need:
 
     * A web application that will make the voice call using the Client SDK.
-    * A publicly accessible URL that serves instructions on how to handle the call. You will use a GitHub Gist to accomplish this.
-
-    When the call is triggered from your application, Nexmo will get the NCCO from a GitHub Gist and forward the call to the destination phone number.
-
-    > **NOTE**: [GitHub Gists](https://gist.github.com/) are a simple way to share code snippets with others.
+    * A publicly accessible URL that serves instructions on how to handle the call. You will use a GitHub Gist to accomplish this. <a href="https://gist.github.com/" target="_blank">GitHub Gists</a> are a simple way to share code snippets with others.
 
 prerequisites:
 - create-nexmo-account
