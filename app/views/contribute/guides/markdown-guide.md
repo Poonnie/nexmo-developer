@@ -78,7 +78,7 @@ To provide greater context in external search results a corresponding `meta_titl
 
 ### Writing an effective `meta_title`
 
-This appears in external search engine results. While navbar titles such as "Overview" might be fine for the navbar (as the navbar provides positional context) this would not be very information in search engine results. `meta_title` could then be set to something that clearly indicates the content of the topic in the external search engine context.
+This appears in external search engine results. While navbar titles such as "Overview" might be fine for the navbar (as the navbar provides positional context) this would not be very information in search engine results. `meta_title` could then be set to something that clearly indicates the content of the topic in the external search engine context. You can read more information about how `meta_title` is leveraged by search engines on [this page](https://moz.com/learn/seo/meta-title).
 
 ### Writing an effective `meta_description`
 
